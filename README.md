@@ -3,9 +3,10 @@
 Ovaj projekat demonstrira čitanje analogne vrednosti sa joystick-a pomoću ADC-a na STM32 mikrokontroleru i slanje informacija o smeru preko UART-a (Putty na računaru). Takođe, projekat kontroliše jednu LED diodu u zavisnosti od stanja joystick-a.
 ---
 
-## Uključena slika
+### STM32Cube konfiguracija
 
-![STM32 pinout](/mnt/data/17dec457-c82c-4511-95d9-e68919f974e8.png)
+![STM32Cube konfiguracija](stmCube.png)
+
 
 Slika prikazuje raspored pinova mikrokontrolera koji smo koristili. Na slici su pinovi koji se koriste za:
 
